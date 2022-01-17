@@ -2,7 +2,6 @@
 
 ### 
 
-<img src="https://img.shields.io/badge/test-#FF0000?style=flat-square&logo=TTT&logoColor=white"/></a>&nbsp
 <!--
 **seungjunlee-cdl/seungjunlee-cdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
