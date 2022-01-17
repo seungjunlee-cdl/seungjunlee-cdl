@@ -1,5 +1,13 @@
 ### 👋 Hi there! I'm Seungjun Lee
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+I got my master's degree in Hanyang University at computational design lab :computer: \
+My interest is machine learning!
+
+### :hammer_and_pick: Tech stack :hammer_and_pick:
+Techs that I've used at least once
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MATLAB-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
 **seungjunlee-cdl/seungjunlee-cdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
