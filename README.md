@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Seungjun Lee
 I got my master's degree in Hanyang University at Computational Design Lab :computer: \
-My interest is machine learning!
+I'm interested in machine learning!
 
 ### :hammer_and_pick: Tech stack :hammer_and_pick:
 Techs that I've used at least once  
